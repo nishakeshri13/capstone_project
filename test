@@ -1,0 +1,23 @@
+# Ignore build files
+file_explorer
+*.o
+*.out
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled executables
+*.exe
+*.bin
+
+# Ignore backup folders
+/build/
+/temp/
+/cache/
